@@ -7,3 +7,4 @@ class test7:
     print("sai2")
     print("sai1")
     print("sai55")
+    print("sai66")
