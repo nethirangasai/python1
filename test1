@@ -1,2 +1,3 @@
 class test1:
   print("sai-test1")
+  print("sai")
