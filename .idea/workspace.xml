@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64abf7c6-46b3-4172-99be-4aa6c8719773" name="Default Changelist" comment="added new class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="64abf7c6-46b3-4172-99be-4aa6c8719773" name="Default Changelist" comment="updated test7">
+      <change beforePath="$PROJECT_DIR$/test7.py" beforeDir="false" afterPath="$PROJECT_DIR$/test7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605278671781</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated test7">
+      <created>1605288249201</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605288249201</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,7 +134,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
           </value>
         </entry>
       </map>
@@ -145,7 +149,8 @@
     <MESSAGE value="test3 new class added" />
     <MESSAGE value="test4 new class added and updated functionalities in other files" />
     <MESSAGE value="added new class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new class" />
+    <MESSAGE value="updated test7" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated test7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605281198692">
