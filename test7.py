@@ -4,3 +4,4 @@ class test7:
     print("added new second print")
     print("sai1")
     print("sai1")
+    print("sai1")
