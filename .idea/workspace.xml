@@ -5,7 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64abf7c6-46b3-4172-99be-4aa6c8719773" name="Default Changelist" comment="updated test7" />
+    <list default="true" id="64abf7c6-46b3-4172-99be-4aa6c8719773" name="Default Changelist" comment="updated test7 again" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branch7" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605288249201</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated test7 again">
+      <created>1605288917092</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605288917092</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +155,8 @@
     <MESSAGE value="test4 new class added and updated functionalities in other files" />
     <MESSAGE value="added new class" />
     <MESSAGE value="updated test7" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated test7" />
+    <MESSAGE value="updated test7 again" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated test7 again" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605281198692">
@@ -159,14 +167,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605276264465" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605288781684">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605288930096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605288781684" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605288219694">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605288930096" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605288897895">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605288219694" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605288897895" />
     <state x="566" y="256" key="git4idea.ui.GitTagDialog" timestamp="1605279634532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
