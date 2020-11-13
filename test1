@@ -1,0 +1,2 @@
+class sai:
+  print("sai")
