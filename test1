@@ -1,2 +1,2 @@
-class sai:
-  print("sai")
+class test1:
+  print("sai-test1")
